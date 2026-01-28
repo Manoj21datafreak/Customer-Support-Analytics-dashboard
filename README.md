@@ -1,4 +1,4 @@
-# 📊 Customer Support Analytics Dashboard (Looker Studio + BigQuery)
+# 📊 Customer Support Analytics Dashboard (Looker Studio(https://lookerstudio.google.com/s/lx6NFT6JAjw) + BigQuery)
 
 ## 🔹 Overview
 This project is an end-to-end Business Intelligence dashboard built using **BigQuery and Looker Studio** to analyze customer support tickets data.
