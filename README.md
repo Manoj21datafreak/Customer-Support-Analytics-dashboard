@@ -18,7 +18,6 @@ The dashboard is designed for:
 ## 📈 Dashboards
 
 ### 1️⃣ Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
 
 **KPIs:**
 - Total Tickets
@@ -35,7 +34,6 @@ The dashboard is designed for:
 ---
 
 ### 2️⃣ Operational Analysis
-![Operational Analysis](screenshots/operational_analysis.png)
 
 **Charts:**
 - Tickets by Type
